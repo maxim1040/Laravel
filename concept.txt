@@ -1,0 +1,41 @@
+Guestbook
+---------
+
++ Mensen kunnen registeren/inloggen
++ Ingelogde gebruikers kunnen bericht achter laten/hun eigen bericht wijzigen
++ Ingelogde gebruikers kunnen andere posts liken
++ Admins kunnen berichten verwijderen
+
+Nice to have
+------------
+
+- Foto's toevoegen
+- Knop "like" weghalen als post reeds geliked is
+- mogelijkheid geven om eigen profiel te editen
+
+
+
+MODELS                        CONTROLLERS
+------                        -----------
+
+Users                         UserController
+  - id                          + weergeven profiel
+  - username
+  - email
+  - password
+  - is_admin
+  - timestamps
+
+Posts                         PostController
+  - id                          + weergeven van alle posts
+  - title                       + weergeven van form voor nieuwe post aan te maken
+  - message                     + nieuwe post saven
+  - user_id                     + weergeven van form voor post te editen
+  - timestamps                  + verwerken van editen
+                                + afhandelen van een delete
+                                + specifieke posts weergeven
+
+Likes                         LikeController
+  - id                          + user kan post liken
+  - post_id
+  - user_id

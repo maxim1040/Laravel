@@ -1,0 +1,531 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maxim\\Downloads\\guestbook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\about.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\about.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\layouts\\app.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\layouts\\app.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\FAQCategoryController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\FAQCategoryController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\LikeSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\LikeSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\AdminUserSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\AdminUserSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\PostSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\PostSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\welcome.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\welcome.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\FAQ\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\FAQ\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\FAQQuestion.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\FAQQuestion.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\FAQCategory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\FAQCategory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\Like.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Like.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\LikeController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\LikeController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\PostController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\PostController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\HomeController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\HomeController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2014_10_12_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2014_10_12_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2021_06_01_075213_create_posts_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2021_06_01_075213_create_posts_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2021_06_01_075222_create_likes_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2021_06_01_075222_create_likes_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2023_08_29_190036_create_f_a_q_questions_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2023_08_29_190036_create_f_a_q_questions_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2023_08_29_190117_create_f_a_q_categories_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2023_08_29_190117_create_f_a_q_categories_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\show.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\posts\\show.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\posts\\index.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\posts\\edit.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\posts\\create.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\users\\profile.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\users\\profile.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Providers\\AuthServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\AuthServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\UserController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\UserController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "about.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\about.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\about.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\about.blade.php",
+              "RelativeToolTip": "resources\\views\\about.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T10:15:28.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FAQCategoryController.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\FAQCategoryController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\FAQCategoryController.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\FAQCategoryController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\FAQCategoryController.php",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:57:53.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\layouts\\app.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layouts\\app.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\layouts\\app.blade.php",
+              "RelativeToolTip": "resources\\views\\layouts\\app.blade.php",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T07:01:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "home.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\home.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\home.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\home.blade.php",
+              "RelativeToolTip": "resources\\views\\home.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:14:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "welcome.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\welcome.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\welcome.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\welcome.blade.php",
+              "RelativeToolTip": "resources\\views\\welcome.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:14:34.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T06:53:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminUserSeeder.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\AdminUserSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\AdminUserSeeder.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\AdminUserSeeder.php",
+              "RelativeToolTip": "database\\seeders\\AdminUserSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:46:56.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseSeeder.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\DatabaseSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\DatabaseSeeder.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\DatabaseSeeder.php",
+              "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:45:07.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LikeSeeder.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\LikeSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\LikeSeeder.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\LikeSeeder.php",
+              "RelativeToolTip": "database\\seeders\\LikeSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:45:10.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostSeeder.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\PostSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\PostSeeder.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\seeders\\PostSeeder.php",
+              "RelativeToolTip": "database\\seeders\\PostSeeder.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:45:11.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\FAQ\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\FAQ\\create.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\FAQ\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\FAQ\\create.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T10:05:33.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FAQQuestion.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\FAQQuestion.php",
+              "RelativeDocumentMoniker": "app\\Models\\FAQQuestion.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\FAQQuestion.php",
+              "RelativeToolTip": "app\\Models\\FAQQuestion.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:37:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FAQCategory.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\FAQCategory.php",
+              "RelativeDocumentMoniker": "app\\Models\\FAQCategory.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\FAQCategory.php",
+              "RelativeToolTip": "app\\Models\\FAQCategory.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T10:02:43.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Like.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\Like.php",
+              "RelativeDocumentMoniker": "app\\Models\\Like.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Models\\Like.php",
+              "RelativeToolTip": "app\\Models\\Like.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T10:02:45.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LikeController.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\LikeController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\LikeController.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\LikeController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\LikeController.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T10:02:24.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Controller.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\Controller.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\Controller.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T10:02:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\HomeController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\HomeController.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\HomeController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\HomeController.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:58:00.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "2014_10_12_000000_create_users_table.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2014_10_12_000000_create_users_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2014_10_12_000000_create_users_table.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2014_10_12_000000_create_users_table.php",
+              "RelativeToolTip": "database\\migrations\\2014_10_12_000000_create_users_table.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:43:12.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostController.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\PostController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\PostController.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\PostController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\PostController.php",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAcwFwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T06:44:31.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "2021_06_01_075213_create_posts_table.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2021_06_01_075213_create_posts_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2021_06_01_075213_create_posts_table.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2021_06_01_075213_create_posts_table.php",
+              "RelativeToolTip": "database\\migrations\\2021_06_01_075213_create_posts_table.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:42:28.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "2021_06_01_075222_create_likes_table.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2021_06_01_075222_create_likes_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2021_06_01_075222_create_likes_table.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2021_06_01_075222_create_likes_table.php",
+              "RelativeToolTip": "database\\migrations\\2021_06_01_075222_create_likes_table.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:41:12.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "2023_08_29_190117_create_f_a_q_categories_table.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2023_08_29_190117_create_f_a_q_categories_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2023_08_29_190117_create_f_a_q_categories_table.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2023_08_29_190117_create_f_a_q_categories_table.php",
+              "RelativeToolTip": "database\\migrations\\2023_08_29_190117_create_f_a_q_categories_table.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:40:49.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "2023_08_29_190036_create_f_a_q_questions_table.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2023_08_29_190036_create_f_a_q_questions_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2023_08_29_190036_create_f_a_q_questions_table.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\database\\migrations\\2023_08_29_190036_create_f_a_q_questions_table.php",
+              "RelativeToolTip": "database\\migrations\\2023_08_29_190036_create_f_a_q_questions_table.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:40:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\posts\\index.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\posts\\index.blade.php",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:06:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\posts\\create.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\posts\\create.blade.php",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T09:02:41.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "show.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\show.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\posts\\show.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\show.blade.php",
+              "RelativeToolTip": "resources\\views\\posts\\show.blade.php",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T07:30:22.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthServiceProvider.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Providers\\AuthServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\AuthServiceProvider.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Providers\\AuthServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\AuthServiceProvider.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T07:17:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "edit.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\posts\\edit.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\posts\\edit.blade.php",
+              "RelativeToolTip": "resources\\views\\posts\\edit.blade.php",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T06:44:23.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserController.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\UserController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\UserController.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\app\\Http\\Controllers\\UserController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\UserController.php",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T06:34:22.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "profile.blade.php",
+              "DocumentMoniker": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\users\\profile.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\users\\profile.blade.php",
+              "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\users\\profile.blade.php",
+              "RelativeToolTip": "resources\\views\\users\\profile.blade.php",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwDwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-06-14T06:27:59.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
