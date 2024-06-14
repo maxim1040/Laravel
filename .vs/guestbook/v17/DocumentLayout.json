@@ -130,8 +130,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -144,14 +148,10 @@
               "RelativeDocumentMoniker": "resources\\views\\about.blade.php",
               "ToolTip": "C:\\Users\\Maxim\\Downloads\\guestbook\\resources\\views\\about.blade.php",
               "RelativeToolTip": "resources\\views\\about.blade.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
               "WhenOpened": "2024-06-14T10:15:28.56Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
@@ -163,8 +163,7 @@
               "RelativeToolTip": "app\\Http\\Controllers\\FAQCategoryController.php",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:57:53.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:57:53.032Z"
             },
             {
               "$type": "Document",
@@ -176,8 +175,7 @@
               "RelativeToolTip": "resources\\views\\layouts\\app.blade.php",
               "ViewState": "AQIAADYAAAAAAAAAAAAAAEYAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T07:01:43.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:01:43.046Z"
             },
             {
               "$type": "Document",
@@ -189,8 +187,7 @@
               "RelativeToolTip": "resources\\views\\home.blade.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:14:13.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:14:13.703Z"
             },
             {
               "$type": "Document",
@@ -202,8 +199,7 @@
               "RelativeToolTip": "resources\\views\\welcome.blade.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:14:34.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:14:34.767Z"
             },
             {
               "$type": "Document",
@@ -215,8 +211,7 @@
               "RelativeToolTip": "routes\\web.php",
               "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T06:53:41.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T06:53:41.553Z"
             },
             {
               "$type": "Document",
@@ -228,8 +223,7 @@
               "RelativeToolTip": "database\\seeders\\AdminUserSeeder.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:46:56.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:46:56.993Z"
             },
             {
               "$type": "Document",
@@ -241,8 +235,7 @@
               "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:45:07.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:45:07.867Z"
             },
             {
               "$type": "Document",
@@ -254,8 +247,7 @@
               "RelativeToolTip": "database\\seeders\\LikeSeeder.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:45:10.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:45:10.306Z"
             },
             {
               "$type": "Document",
@@ -267,8 +259,7 @@
               "RelativeToolTip": "database\\seeders\\PostSeeder.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:45:11.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:45:11.735Z"
             },
             {
               "$type": "Document",
@@ -280,8 +271,7 @@
               "RelativeToolTip": "resources\\views\\FAQ\\create.blade.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T10:05:33.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T10:05:33.198Z"
             },
             {
               "$type": "Document",
@@ -293,8 +283,7 @@
               "RelativeToolTip": "app\\Models\\FAQQuestion.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:37:37.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:37:37.54Z"
             },
             {
               "$type": "Document",
@@ -306,8 +295,7 @@
               "RelativeToolTip": "app\\Models\\FAQCategory.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T10:02:43.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T10:02:43.54Z"
             },
             {
               "$type": "Document",
@@ -319,8 +307,7 @@
               "RelativeToolTip": "app\\Models\\Like.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T10:02:45.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T10:02:45.861Z"
             },
             {
               "$type": "Document",
@@ -332,8 +319,7 @@
               "RelativeToolTip": "app\\Http\\Controllers\\LikeController.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T10:02:24.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T10:02:24.641Z"
             },
             {
               "$type": "Document",
@@ -345,8 +331,7 @@
               "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T10:02:30.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T10:02:30.951Z"
             },
             {
               "$type": "Document",
@@ -358,8 +343,7 @@
               "RelativeToolTip": "app\\Http\\Controllers\\HomeController.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:58:00.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:58:00.977Z"
             },
             {
               "$type": "Document",
@@ -371,8 +355,7 @@
               "RelativeToolTip": "database\\migrations\\2014_10_12_000000_create_users_table.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:43:12.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:43:12.528Z"
             },
             {
               "$type": "Document",
@@ -384,8 +367,7 @@
               "RelativeToolTip": "app\\Http\\Controllers\\PostController.php",
               "ViewState": "AQIAAEgAAAAAAAAAAAAcwFwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T06:44:31.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T06:44:31.18Z"
             },
             {
               "$type": "Document",
@@ -397,8 +379,7 @@
               "RelativeToolTip": "database\\migrations\\2021_06_01_075213_create_posts_table.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:42:28.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:42:28.533Z"
             },
             {
               "$type": "Document",
@@ -410,8 +391,7 @@
               "RelativeToolTip": "database\\migrations\\2021_06_01_075222_create_likes_table.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:41:12.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:41:12.193Z"
             },
             {
               "$type": "Document",
@@ -423,8 +403,7 @@
               "RelativeToolTip": "database\\migrations\\2023_08_29_190117_create_f_a_q_categories_table.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:40:49.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:40:49.453Z"
             },
             {
               "$type": "Document",
@@ -436,8 +415,7 @@
               "RelativeToolTip": "database\\migrations\\2023_08_29_190036_create_f_a_q_questions_table.php",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2024-06-14T09:40:45.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:40:45.916Z"
             },
             {
               "$type": "Document",
